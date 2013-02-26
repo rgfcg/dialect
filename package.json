@@ -4,7 +4,7 @@
   "version": "1.0.4",
   "author": "Pau Ramon <masylum@gmail.com>",
   "dependencies": {
-    "mongodb": "0.9.6-23",
+    "mongodb": "latest",
     "funk": "1.0.1"
   },
   "devDependencies": {
