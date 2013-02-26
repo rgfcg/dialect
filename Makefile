@@ -7,8 +7,6 @@ test_dialect:
 
 test_helpers:
 	@$(NODE) test/io.js
-	@$(NODE) test/sqlizer.js
 
 test_stores:
 	@$(NODE) test/stores/mongodb.js
-	@$(NODE) test/stores/sqlite.js
